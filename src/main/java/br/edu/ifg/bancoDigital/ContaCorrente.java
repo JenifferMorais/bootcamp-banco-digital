@@ -1,6 +1,6 @@
 package br.edu.ifg.bancoDigital;
 
-import java.util.Scanner;
+
 
 import lombok.Getter;
 import lombok.Setter;
